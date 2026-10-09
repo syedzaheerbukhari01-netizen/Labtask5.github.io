@@ -1,0 +1,6 @@
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+program = input("Enter your program: ")
+mark = float(input("Enter your marks:"))
+student = (name, age, program, mark)
+print("student information:", student)
